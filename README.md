@@ -11,32 +11,32 @@ WeekOminiStack 11.0 - Project to help ONGS to receive contacts and people that c
 ```bash
 1. Login Frontend
 ```
-<img alt="" src="https://raw.githubusercontent.com/joaopaulolndev/be-the-hero/master/screen/hero_login_front.jpeg">
+<img alt="" src="https://raw.githubusercontent.com/joaopaulolndev/be-the-hero/master/screens/hero_login_front.jpeg">
 
 ```bash
 2. Form Create ONG
 ```
-<img alt="" src="https://raw.githubusercontent.com/joaopaulolndev/be-the-hero/master/screen/hero_create_ong.jpeg">
+<img alt="" src="https://raw.githubusercontent.com/joaopaulolndev/be-the-hero/master/screens/hero_create_ong.jpeg">
 
 ```bash
 3. List Incidents
 ```
-<img alt="" src="https://raw.githubusercontent.com/joaopaulolndev/be-the-hero/master/screen/hero_list.jpeg">
+<img alt="" src="https://raw.githubusercontent.com/joaopaulolndev/be-the-hero/master/screens/hero_list.jpeg">
 
 ```bash
 4. Form Create Incident
 ```
-<img alt="" src="https://raw.githubusercontent.com/joaopaulolndev/be-the-hero/master/screen/hero_create_incident.jpeg">
+<img alt="" src="https://raw.githubusercontent.com/joaopaulolndev/be-the-hero/master/screens/hero_create_incident.jpeg">
 
 ```bash
 5. List Incidents Mobile
 ```
-<img alt="" src="https://raw.githubusercontent.com/joaopaulolndev/be-the-hero/master/screen/hero_mobile_list.jpeg">
+<img alt="" src="https://raw.githubusercontent.com/joaopaulolndev/be-the-hero/master/screens/hero_mobile_list.jpeg">
 
 ```bash
 6. Detail Incident Mobile
 ```
-<img alt="" src="https://raw.githubusercontent.com/joaopaulolndev/be-the-hero/master/screen/hero_mobile_case.jpeg">
+<img alt="" src="https://raw.githubusercontent.com/joaopaulolndev/be-the-hero/master/screens/hero_mobile_case.jpeg">
 
 
 ### Installation
