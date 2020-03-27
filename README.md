@@ -35,7 +35,6 @@ WeekOminiStack 11.0 - Project to help ONGS to receive contacts and people that c
 <img alt="" src="https://raw.githubusercontent.com/joaopaulolndev/be-the-hero/master/screen/hero_mobile_case.jpeg">
 
 ### Requirements
-* Node
 
 <span display="inline" height="20px" class="common__BadgeWrapper-v13icv-3 hcQjpf"><img alt="node (scoped) badge" src="https://img.shields.io/badge/node-%3E%3D%206.0.0-brightgreen"></span>
 
